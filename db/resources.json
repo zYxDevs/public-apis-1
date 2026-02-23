@@ -1741,10 +1741,10 @@
     {
         "API": "1inch",
         "Description": "API for querying decentralize exchange",
-        "Auth": "",
+        "Auth": "apiKey",
         "HTTPS": true,
-        "Cors": "unknown",
-        "Link": "https://1inch.io/page-api/",
+        "Cors": "yes",
+        "Link": "https://business.1inch.com/",
         "Category": "Cryptocurrency"
     },
     {
